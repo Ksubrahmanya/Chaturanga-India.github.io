@@ -66,9 +66,8 @@ h1{
 	padding-right: 5px;
 	overflow: hidden;
 	background-color: #353738;
-	border-style: ridge;
-	margin-bottom: 20px;
-
+	border-style:outset;
+	margin-bottom: 30px;
 }
 
 li{
