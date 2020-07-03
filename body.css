@@ -12,58 +12,58 @@
   padding-top: 20px;
   padding-bottom: 20px;
   padding-right: 10px;
-  background-color: #cb6ff2;
-  border-color: #cb6ff2;
+  background-color: #f24444;
+  border-color: #f24444;
   color:#020614;
 }
 .WS{
-  background-color:#a15bd4;
-  border-color: #a15bd4;
+  background-color:#d160eb;
+  border-color: #d160eb;
   color:#020614;
 }
 .WR{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#f24444;
+  border-color: #f24444;
   color:#020614;
 }
 .WRe{
-  background-color:#5b875b;
-  border-color: #5b875b;
+  background-color:#d160eb;
+  border-color: #d160eb;
   color:#020614;
 }
 .WE{
-  background-color:#b3b324;
-  border-color: #b3b324;
+  background-color:#f24444;
+  border-color: #f24444;
   color:#020614;
 }
 .WEn{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#d160eb;
+  border-color:#d160eb;
   color:#020614;
 }
 .WL{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#f24444;
+  border-color: #f24444;
   color:#020614;
 }
 .WGL{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#d160eb;
+  border-color:#d160eb;
   color:#020614;
 }
 .WAR{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#f24444;
+  border-color:#f24444;
   color:#020614;
 }
 .WC{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#d160eb;
+  border-color: #d160eb;
   color:#020614;
 }
 .WAE{
-  background-color:#8686fc;
-  border-color: #8686fc;
+  background-color:#f24444;
+  border-color: #f24444;
   color:#020614;
 }
 
@@ -83,59 +83,59 @@
 
 .WI:hover
 {
-  background-color:#9400D3;
+  background-color:#bf0b0b;
   color:white;
-  border-color: #9400D3;
+  border-color: #bf0b0b;
 }
 .WS:hover{
-  background-color:#4B0082;
+  background-color:#7e1496;
   color:white;
-  border-color: #4B0082;
+  border-color: #7e1496;
 }
 .WR:hover{
-  background-color:#0000FF;
+  background-color:#bf0b0b;
   color:white;
-  border-color: #0000FF;
+  border-color: #bf0b0b;
 }
 .WRe:hover{
-  background-color:#009600;
+  background-color:#7e1496;
   color:white;
-  border-color: #009600;
+  border-color: #7e1496;
 }
 .WE:hover{
-  background-color:#b3b305;
+  background-color:#bf0b0b;
   color:white;
-  border-color:#b3b305 ;
+  border-color:#bf0b0b ;
 }
 .WEn:hover{
-  background-color:#FF7F00;
+  background-color:#7e1496;
   color:white;
-  border-color: #FF7F00;
+  border-color: #7e1496;
 }
 .WL:hover{
-  background-color:#0000FF;
+  background-color:#bf0b0b;
   color:white;
-  border-color: #0000FF;
+  border-color: #bf0b0b;
 }
 .WGL:hover{
-  background-color:#0000FF;
+  background-color:#7e1496;
   color:white;
-  border-color: #0000FF;
+  border-color: #7e1496;
 }
 .WAR:hover{
-  background-color:#0000FF;
+  background-color:#bf0b0b;
   color:white;
-  border-color: #0000FF;
+  border-color: #bf0b0b;
 }
 .WC:hover{
-  background-color:#0000FF;
+  background-color:#7e1496;
   color:white;
-  border-color: #0000FF;
+  border-color:#7e1496;
 }
 .WAE:hover{
-  background-color:#0000FF;
+  background-color:#bf0b0b;
   color:white;
-  border-color: #0000FF;
+  border-color:#bf0b0b;
 }
 .chat{
   font-weight: bold;
