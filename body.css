@@ -1,7 +1,7 @@
 .WI,.WGL,.WS,.WR,.WRe,.WE,.WEn,.WL,.WAR,.WC,.WAE{
 
   display:inline-block;
-  font-size: 40px;
+  font-size: 30px;
   font-family: 'Berkshire Swash', cursive;
   border: solid 2px;
   border-width: medium;
@@ -87,8 +87,8 @@ padding-right: 140px;
 .WIC,.WSC,.WRC,.WRec,.WEC,.WEnC,.WLC,.WGLC,.WARC,.WCC,.WAEC{
   display:flex;
   padding-top: 2px;
-  font-size: 35px;
-  font-family: 'Sriracha', cursive;
+  font-size: 25px;
+  font-family: 'Coda', cursive;
   color:#020614;
   margin-left: 30px;
   padding-bottom: 20px;
@@ -183,6 +183,7 @@ padding-right: 140px;
   font-weight: bold;
   font-size: 200%;
   overflow: hidden;
+  margin-left: 20px;
 }
 
 .FBD{
