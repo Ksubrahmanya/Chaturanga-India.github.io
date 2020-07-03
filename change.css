@@ -154,7 +154,7 @@ span{
 }
 .arm{
 display: block;
-width: 100%;
+width: 380px;
 height: 38px;
 border-radius: 0;
 bottom: auto;
@@ -167,7 +167,7 @@ text-indent: -9999px;
 }
 .arp{
 	display: block;
-width: 100%;
+width: 420px;
 height: 38px;
 border-radius: 0;
 bottom: auto;
