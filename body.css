@@ -1,0 +1,142 @@
+.WI,.WGL,.WS,.WR,.WRe,.WE,.WEn,.WL,.WAR,.WC,.WAE{
+
+  display:inline-block;
+  font-size: 30px;
+  font-family: 'Berkshire Swash', cursive;
+  border: solid 2px;
+  border-width: medium;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  background-color: #cb6ff2;
+  border-color: #cb6ff2;
+  color:#020614;
+}
+.WS{
+  background-color:#a15bd4;
+  border-color: #a15bd4;
+  color:#020614;
+}
+.WR{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WRe{
+  background-color:#5b875b;
+  border-color: #5b875b;
+  color:#020614;
+}
+.WE{
+  background-color:#b3b324;
+  border-color: #b3b324;
+  color:#020614;
+}
+.WEn{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WL{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WGL{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WAR{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WC{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+.WAE{
+  background-color:#8686fc;
+  border-color: #8686fc;
+  color:#020614;
+}
+
+.para{
+
+  border: 1px double;
+  border-style: ridge;
+  border-color: #b3bef2;
+}
+.WIC,.WSC,.WRC,.WRec,.WEC,.WEnC,.WLC,.WGLC,.WARC,.WCC,.WAEC{
+  display:flex;
+  padding-top: 14px;
+  font-size: 30px;
+  font-family: 'Sriracha', cursive;
+  color:#020614;
+}
+
+.WI:hover
+{
+  background-color:#9400D3;
+  color:white;
+  border-color: #9400D3;
+}
+.WS:hover{
+  background-color:#4B0082;
+  color:white;
+  border-color: #4B0082;
+}
+.WR:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WRe:hover{
+  background-color:#009600;
+  color:white;
+  border-color: #009600;
+}
+.WE:hover{
+  background-color:#b3b305;
+  color:white;
+  border-color:#b3b305 ;
+}
+.WEn:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WL:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WGL:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WAR:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WC:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.WAE:hover{
+  background-color:#0000FF;
+  color:white;
+  border-color: #0000FF;
+}
+.chat{
+  font-weight: bold;
+}
