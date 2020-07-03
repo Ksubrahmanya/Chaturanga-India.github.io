@@ -250,3 +250,7 @@ img{
 	height: 45px;
 	width: 45px;
 }
+/* For mobile phones: */
+class* {
+  width: 100%;
+}
