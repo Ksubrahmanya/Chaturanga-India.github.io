@@ -1,70 +1,81 @@
 .WI,.WGL,.WS,.WR,.WRe,.WE,.WEn,.WL,.WAR,.WC,.WAE{
 
   display:inline-block;
-  font-size: 30px;
+  font-size: 40px;
   font-family: 'Berkshire Swash', cursive;
   border: solid 2px;
   border-width: medium;
   margin-top: 10px;
   margin-bottom: 20px;
-  border-bottom-right-radius: 30px;
-  border-top-right-radius: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 10px;
+  border-bottom-right-radius: 170px;
+  border-top-right-radius: 170px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 110px;
   background-color: #f24444;
   border-color: #f24444;
   color:#020614;
+  padding-left: 30px;
 }
 .WS{
   background-color:#d160eb;
   border-color: #d160eb;
   color:#020614;
+  padding-right: 130px;
 }
 .WR{
   background-color:#f24444;
   border-color: #f24444;
   color:#020614;
+  padding-right: 160px;
 }
 .WRe{
   background-color:#d160eb;
   border-color: #d160eb;
   color:#020614;
+  padding-right: 140px;
 }
 .WE{
   background-color:#f24444;
   border-color: #f24444;
   color:#020614;
+padding-right: 140px;
 }
 .WEn{
   background-color:#d160eb;
   border-color:#d160eb;
   color:#020614;
+  padding-right: 130px;
 }
 .WL{
   background-color:#f24444;
   border-color: #f24444;
   color:#020614;
+  padding-right: 175px;
 }
 .WGL{
   background-color:#d160eb;
   border-color:#d160eb;
   color:#020614;
+  padding-right: 120px;
 }
 .WAR{
   background-color:#f24444;
   border-color:#f24444;
   color:#020614;
+  padding-right: 130px;
 }
 .WC{
   background-color:#d160eb;
   border-color: #d160eb;
   color:#020614;
+  padding-right: 130px;
 }
 .WAE{
   background-color:#f24444;
   border-color: #f24444;
   color:#020614;
+  padding-right: 40px;
 }
 
 .para{
@@ -75,10 +86,12 @@
 }
 .WIC,.WSC,.WRC,.WRec,.WEC,.WEnC,.WLC,.WGLC,.WARC,.WCC,.WAEC{
   display:flex;
-  padding-top: 14px;
-  font-size: 30px;
+  padding-top: 2px;
+  font-size: 35px;
   font-family: 'Sriracha', cursive;
   color:#020614;
+  margin-left: 30px;
+  padding-bottom: 20px;
 }
 
 .WI:hover
@@ -139,4 +152,22 @@
 }
 .chat{
   font-weight: bold;
+}
+.headi{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 70px;
+  font-weight: lighter;
+  text-align:left;
+  background-color: #61b083;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  font-family: 'Graduate', cursive;
+  color: #030014;
+  border-style: outset;
+  border-color: #59d97b;
+  border-top-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+
 }
