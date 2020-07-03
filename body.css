@@ -169,5 +169,50 @@ padding-right: 140px;
   border-color: #59d97b;
   border-top-left-radius: 70px;
   border-bottom-right-radius: 70px;
+}
 
+.FB{
+  width:100%;
+  height: 100px;
+  background-repeat: no-repeat;
+  border: 3px;
+  border-style: outset;
+  border-color: #b1b9e0;
+  background-color: #b1b9e0;
+  color: black;
+  font-weight: bold;
+  font-size: 200%;
+  overflow: hidden;
+}
+
+.FBD{
+  position: relative;
+}
+.FBD textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+.FBD button {
+  position: absolute;
+  bottom:  1;
+  left: 1;
+  margin-left: 20px;
+  margin-bottom: 4px;
+}
+.FBS{
+  border-radius: 5px;
+  background-color:#588c5f;
+  color: white;
+  font-family: 'Graduate', cursive;
+  padding: 4px 4px 4px 4px;
+  border-color:  #588c5f;
+  cursor: pointer;
+}
+
+.mar{
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #030014;
+    font-family: 'Sriracha', cursive;
 }
