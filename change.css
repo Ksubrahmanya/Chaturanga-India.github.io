@@ -160,23 +160,21 @@ border-radius: 0;
 bottom: auto;
 margin: 0;
 background: url(https://github.com/Ksubrahmanya/ksubrahmanya.github.io/blob/master/images/Picture1.png?raw=true) no-repeat;
-background-size: 80%;
+background-size: 100%;
 overflow: hidden;
 text-indent: -9999px;
 
 }
 .arp{
 	display: block;
-width: 350px;
+width: 420px;
 height: 38px;
 border-radius: 0;
 bottom: auto;
 margin: 0;
 
 	background: url(https://raw.githubusercontent.com/Ksubrahmanya/Ksubrahmanya.github.io/master/images/Picture2.png) no-repeat;
-    background-size: auto;
-background-size: 80%;
-padding-right:32px;
+background-size: 100%;
 overflow: hidden;
 text-indent: -9999px;
 }
