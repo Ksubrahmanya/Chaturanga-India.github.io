@@ -26,7 +26,7 @@ body
 	padding: 0 !important;
 	margin: 0 !important;
 	background-color: transparent !important;
-	margin-left: 2px;
+	margin-left: 30px !important;
 }
 .ar{
 	font-family:"lucida-handwriting";
@@ -38,14 +38,13 @@ body
 	width: 400px;
 	padding: 0 !important;
 	margin: 0 !important;
-	margin-right:20 !important;
+	margin-right:60 !important;
 	background-color: transparent !important;
 }
 
 .arm{
 border: solid white 1px;
 border-bottom: 10px;
-border-left: 10px;
 display: block;
 width: 300px;
 height: 38px;
@@ -61,7 +60,6 @@ text-indent: -9999px;
 .arp{
 	border: solid white 1px;
 	border-bottom: 10px;
-	border-right	: 10px;
 display: block;
 width: 420px;
 height: 38px;
