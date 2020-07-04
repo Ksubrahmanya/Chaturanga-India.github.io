@@ -3,7 +3,7 @@
 	text-align: left;
   position: relative;
   font-size:25px;
-		color:white;
+  color:white;
 	  background-color:#222;
 		border: 1px solid #222;
 		border-radius: 4px;
@@ -19,6 +19,7 @@
 }
 
 .TOIB:hover{
-	background: #007a48;
+	background: white;
+  color:#222;
 
 }
